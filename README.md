@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+11/02/18
 
 ### Student Name:  
-(First and Last Name)
+Joshua Barrios
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment converts currency rates from dollar to any country to chosen.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+joshuabrrs.github.io/lesson5_javascript2
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how and when to use if statements
+2. I learned how to clear values 
+3. I learned how to display a variable to the screen
 
